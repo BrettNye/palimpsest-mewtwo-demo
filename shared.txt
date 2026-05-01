@@ -1,1 +1,1 @@
-shared.txt: line one
+shared.txt: changed by delta
