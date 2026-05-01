@@ -1,1 +1,1 @@
-shared.txt: changed by delta
+shared.txt: resolved manually by user (delta + epsilon both wanted this line; combined post-conflict)
